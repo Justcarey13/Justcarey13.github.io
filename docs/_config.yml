@@ -29,7 +29,9 @@ twitter_username: jekyllrb
 github_username:  Justcarey13
 
 # Build settings
-theme: minima
+# theme: minima
+theme: minima-mistakes-jekyll
+minimal_mistakes_skin: dark
 plugins:
   - jekyll-feed
 
