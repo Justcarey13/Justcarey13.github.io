@@ -25,7 +25,7 @@ url                      : "https://justcarey13.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Justcarey13/Justcarey13.github.io"
 teaser                   : "/assets/images/teaser.JPG"
-logo                     : "/assets/images/logo.JPG"
+logo                     : "/assets/images/teaser.JPG"
 masthead_title           : "Carey's personal website" 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
