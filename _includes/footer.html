@@ -4,13 +4,6 @@
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
 
-    {% if site.footer.discord %}
-      <li class="discord-footer">
-        <i class="fab fa-fw fa-discord" aria-hidden="true"></i> Discord: <span class="discord-id">{{ site.footer.discord }}</span>
-      </li>
-      <br>
-    {% endif %}
-
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
