@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Justcarey13/Justcarey13.github.io"
 teaser                   : "/assets/images/SwimRabbit.png"
 logo                     : "/assets/images/SwimRabbit.png"
-masthead_title           : "Carey's personal website" for no title
+masthead_title           : "Carey's personal website" 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
