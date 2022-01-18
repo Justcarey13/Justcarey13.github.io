@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi my name is Carey, I am penultimate year Computer Science student at UNSW. I love solving problems, developing new skills and enjoying working as a team.
+Hi my name is Carey, I am second year Computer Science student at UNSW. I love solving problems, developing new skills and enjoying working as a team.
 
 This is my personal website. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
