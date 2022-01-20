@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "default", "aqua", "contrast", , "dirt", "neon", "mint" , "plum", "sunrise"
 
@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "default", "aqua", "contrast", , "dir
 locale                   : "en-US"
 title                    : "Swimmimg Rabbit"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Version 2.0"
 name                     : "Carey Yang"
 description              : "Welcome :) --> this is a description"
 url                      : "https://justcarey13.github.io/"
@@ -115,7 +115,10 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/carey-yang-0827321b5/"
 
-
+# Site Header
+header:
+  teaser: /assets/images/my-awesome-post-teaser.jpg
+  
 # Site Footer
 footer:
   links:
