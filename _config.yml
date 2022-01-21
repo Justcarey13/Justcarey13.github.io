@@ -129,6 +129,10 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/carey-yang-0827321b5/"
 
+# Site Scripts
+head_scripts:
+  - https://code.jquery.com/jquery-3.2.1.min.js
+  - /assets/js/your-custom-head-script.js
 
 # Reading Files
 include:
