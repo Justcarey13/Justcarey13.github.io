@@ -8,14 +8,12 @@ color: 555555
 comments: true
 classes: wide
 header:
-  teaser: /assets/images/CentennialPark/CentennialPark0.jpg
-gallery:
-  - url: /assets/images/CentennialPark/CentennialPark1.jpg
-    image_path: /assets/images/CentennialPark/CentennialPark1.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+  overlay_image: /assets/images/CentennialPark/CentennialPark0.JPG
 ---
 
 ## Landscapes
+
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/assets/images/CentennialPark/CentennialPark1.JPG)
+{: .full}
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
