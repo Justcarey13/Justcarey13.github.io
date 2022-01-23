@@ -11,7 +11,7 @@ header:
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Carey Yang**](https://justcarey13.github.io/photography)"
 
-excerpt: "Welcome!__I am a second year computer science student at UNSW :) "
+excerpt: "Welcome!\nI am a second year computer science student at UNSW :) "
 
 intro: 
   - excerpt: '`<p>"awesome inst"</p>`'

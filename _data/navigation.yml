@@ -3,8 +3,9 @@ main:
     url: /about
   - title: "Notes"
     url: /notes
-  - title: "Blog"
-    url: /blog
+  - title: "Blogs"
+    url: /blogs
   - title: "Photography"
     url: /photography
-    
+  - title: "Fingerstyle"
+    url: /fingerstyle
