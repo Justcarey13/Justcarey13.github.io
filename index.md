@@ -3,6 +3,7 @@ title: "Hi! I'm Carey."
 layout: splash
 date: 2022.1.22
 header:
+  <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/my-awesome-post-teaser.jpg
