@@ -11,13 +11,16 @@ header:
   overlay_image: /assets/images/CentennialPark/CentennialPark0.JPG
   caption: "Photo credit: [**Carey Yang**](https://justcarey13.github.io/photography)"
 gallery:
-  - image_path: /assets/images/CentennialPark/CentennialPark1.JPG
+  - url: /assets/images/CentennialPark/CentennialPark1.JPG
+    image_path: /assets/images/CentennialPark/CentennialPark1.JPG
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - image_path: /assets/images/CentennialPark/CentennialPark2.JPG
+  - url: /assets/images/CentennialPark/CentennialPark2.JPG
+    image_path: /assets/images/CentennialPark/CentennialPark2.JPG
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - image_path: /assets/images/CentennialPark/CentennialPark3.JPG
+  - url: /assets/images/CentennialPark/CentennialPark3.JPG
+    image_path: /assets/images/CentennialPark/CentennialPark3.JPG
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
