@@ -18,15 +18,15 @@ minimal_mistakes_skin    : "dark" # "air", "default", "aqua", "contrast", , "dir
 locale                   : "en-US"
 title                    : "Swimmimg Rabbit"
 title_separator          : "-"
-subtitle                 : "Version 2.0"
+subtitle                 : "My personal website"
 name                     : "Carey Yang"
 description              : "Welcome :) --> this is a description"
 url                      : "https://justcarey13.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Justcarey13/Justcarey13.github.io"
 teaser                   : "/assets/images/teaser.JPG"
-logo                     : "/assets/images/teaser.JPG"
-masthead_title           : "Carey's personal website" 
+logo                     : "/assets/images/logo.JPG"
+masthead_title           : "Swimming Rabbit" 
 breadcrumbs              : true  # disabled by default
 words_per_minute         : 200
 
@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Carey Yang"
   avatar           : "/assets/images/logo.JPG"
-  bio              : "I am a second year computer science student."
+  bio              : "I am a second year computer science student at UNSW."
   location         : "Sydney"
   email            : "just.carey13@gmail.com"
   links:

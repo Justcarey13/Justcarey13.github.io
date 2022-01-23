@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Hi! I'm Carey."
 layout: splash
 date: 2022.1.22
 header:
@@ -9,13 +9,13 @@ header:
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Carey Yang**](https://justcarey13.github.io/photography)"
 
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Welcome!__I am a second year computer science student at UNSW :) "
 
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-  
+  - excerpt: '`<p>"awesome inst"</p>`'
+
 feature_row:
   - image_path: assets/images/my-awesome-post-teaser.jpg
     alt: "placeholder image 1"
