@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Notes
-permalink: /notes/
+title: "Placeholder Blog Post"
+tags:
+  - placeholder
 ---
 
 # CSE NOTES
