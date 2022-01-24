@@ -22,7 +22,7 @@ feature_row:
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/my-awesome-post-teaser.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    image_caption: "Photo courtesy of [**Carey Yang**](https://justcarey13.github.io/photography)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
