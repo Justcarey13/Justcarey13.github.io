@@ -1,5 +1,6 @@
 ---
-title: "Hi! I'm Carey."
+title: "Swimmimg Rabbit"
+heading: "Hi! I'm Carey."
 layout: splash
 date: 2022.1.22
 header:
