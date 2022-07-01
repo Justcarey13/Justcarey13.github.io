@@ -5,6 +5,8 @@ main:
     url: /notes
   - title: "Blogs"
     url: /blogs
+  - title: "Projects"
+    url: /projects
   - title: "Photography"
     url: /photography
   - title: "Fingerstyle"

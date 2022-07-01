@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/my-awesome-post-teaser.jpg
   caption: "Photo credit: [**Carey Yang**](https://justcarey13.github.io/photography)"
 
-excerpt: "Welcome to my personal website :)"
+excerpt: "Hey! I'm Carey - welcome to my personal website :D"
 
 intro: 
   - excerpt: '`Good morning! Oh, in case I don’t see you, good afternoon, good evening and good night.`'
