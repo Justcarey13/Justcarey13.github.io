@@ -9,7 +9,7 @@ excerpt: "Hi! My name is Carey."
 
 #### I am a second year Computer Science student at [The University of New South Wales (UNSW)](https://www.unsw.edu.au/). 
 
-#### I currently working as a Software Engineer at [SunSwift Racing](https://www.sunswift.com/) and a Software Engineer Intern at [Dye & Durham](https://dyedurham.com.au/). 
+#### I am currently working as a Software Engineer at [SunSwift Racing](https://www.sunswift.com/) and a Software Engineer Intern at [Dye & Durham](https://dyedurham.com.au/). 
 
 #### I am keen on building software projects and learning something about everything. 
 
