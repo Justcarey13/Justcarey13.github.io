@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Justcarey13/Justcarey13.github.io"
 teaser                   : "/assets/images/teaser.JPG"
 logo                     : "/assets/images/logo.JPG"
-masthead_title           : "Swimming Rabbit" 
+masthead_title           : "Swimming Rabbit.io" 
 breadcrumbs              : true  # disabled by default
 words_per_minute         : 200
 
