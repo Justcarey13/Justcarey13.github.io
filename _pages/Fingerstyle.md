@@ -7,4 +7,3 @@ taxonomy: fingerstyle
 ---
 
 
-# To Do 

@@ -20,7 +20,7 @@ title                    : "Carey Yang"
 title_separator          : "-"
 subtitle                 : "ʕ•ᴥ•ʔ"
 name                     : "Carey Yang.io"
-description              : "Welcome :) --> this is a description"
+description              : "yo --> this is a description"
 url                      : "https://justcarey13.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Justcarey13/Justcarey13.github.io"
@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Carey Yang"
   avatar           : "/assets/images/avatar.JPG"
-  bio              : "Second year Computer Science student @UNSW (she/her)"
+  bio              : "A people (she/her)"
   location         : "Sydney"
   email            : "just.carey13@gmail.com"
   links:
@@ -98,6 +98,10 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/carey-yang-0827321b5/"
+    - label: "Instragram"
+      icon: "fab fa-fw fa-instragram"
+      url: "https://www.instagram.com/by.carey13/"
+
 
 # Site Header
 header:
@@ -112,7 +116,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/carey-yang-0827321b5/"
-
+    - label: "Instragram"
+      icon: "fab fa-fw fa-instragram"
+      url: "https://www.instagram.com/by.carey13/"
 # Site Scripts
 head_scripts:
   - https://code.jquery.com/jquery-3.2.1.min.js
