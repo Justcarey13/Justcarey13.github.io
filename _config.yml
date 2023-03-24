@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Carey Yang"
   avatar           : "/assets/images/avatar.JPG"
-  bio              : "A people (she/her)"
+  bio              : "I'm going to enjoy every minute of it:)"
   location         : "Sydney"
   email            : "just.carey13@gmail.com"
   links:
@@ -98,8 +98,8 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/carey-yang-0827321b5/"
-    - label: "Instragram"
-      icon: "fab fa-fw fa-instragram"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/by.carey13/"
 
 
@@ -116,8 +116,8 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/carey-yang-0827321b5/"
-    - label: "Instragram"
-      icon: "fab fa-fw fa-instragram"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/by.carey13/"
 # Site Scripts
 head_scripts:
